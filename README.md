@@ -15,5 +15,3 @@ This repository contains the source code for **Infra Code Editor** - GUI (Graphi
 
 Contribute!
 
-
-*2017, adao.pedro16@gmail.com*
