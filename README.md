@@ -1,7 +1,7 @@
 # Infra Code Editor
 *Compilador-Infra's source code editor*
 
-This repository contains the source code for **Infra Code Editor** (GUI - Graphical User Interface for the **[Compilador Infra]**(https://github.com/AdaoPedro/Compilador-Infra)).
+This repository contains the source code for **Infra Code Editor** - GUI (Graphical User Interface) for the **[Compilador Infra]**(https://github.com/AdaoPedro/Compilador-Infra).
 
 **NOTE:** [Fork](https://github.com/pritamzope/AdvancedNotepad_CSharp>)
 
